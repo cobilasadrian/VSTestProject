@@ -10,6 +10,7 @@ namespace VSTestProject
     {
         static void Main(string[] args)
         {
+            //Some changes
         }
     }
 }
