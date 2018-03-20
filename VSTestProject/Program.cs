@@ -12,6 +12,8 @@ namespace VSTestProject
         {
             //Conflict comment
             //Some changes
+
+            //Another comment here
         }
     }
 }
