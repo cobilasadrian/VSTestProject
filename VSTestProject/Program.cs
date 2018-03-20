@@ -10,6 +10,7 @@ namespace VSTestProject
     {
         static void Main(string[] args)
         {
+            //Conflict comment
             //Some changes
         }
     }
